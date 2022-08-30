@@ -29,14 +29,15 @@
 | Name | Description                          |
 | ---- | ------------------------------------ |
 | text | Recognize input.text as pure text.   |
+| ssml | Recognize input.text in ssml format. |
 
 ### Voice Model
 
 | Name           | Sample Rate | Description                       |
-| -------------- | ----------- |-----------------------------------|
+| -------------- | ----------- | --------------------------------- |
 | zh_en_female_1 | 16k         | Yating speak Mandarin and English |
 | zh_en_female_2 | 16k         | Yiqing speak Mandarin and English |
-| zh_en_male_1 | 16k         | Jiahao speak Mandarin and English |
+| zh_en_male_1   | 16k         | Jiahao speak Mandarin and English |
 
 ### Encoding Format
 
